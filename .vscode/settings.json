@@ -15,7 +15,7 @@
     "code-runner.saveFileBeforeRun": true, // run code前保存
     "code-runner.preserveFocus": true, // 若为false，run code后光标会聚焦到终端上。如果需要频繁输入数据可设为false
     "code-runner.clearPreviousOutput": true, // 每次run code前清空属于code runner的终端消息，默认false
-    "code-runner.ignoreSelection": false, // 默认为false，效果是鼠标选中一块代码后可以单独执行，但C是编译型语言，不适合这样用
+    "code-runner.ignoreSelection": true, // 默认为false，效果是鼠标选中一块代码后可以单独执行，但C是编译型语言，不适合这样用
 
     "C_Cpp.clang_format_sortIncludes": true,
     "C_Cpp.errorSquiggles": "Enabled", // 格式化时调整include的顺序（按字母排序）

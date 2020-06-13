@@ -4,7 +4,7 @@
 
 int main(void)
 {
-    //Basic-1："%d"
+    //Basic-1："%d","%u"
     int a = 10;
     int b = 15;
     printf("%d %d", a, b);
@@ -12,6 +12,8 @@ int main(void)
     //"%5d"指域宽，即输出的数据所占的列数，数据靠右排列，左侧可以空下
     int c = 987;
     printf("%5d\n", c);
+    unsigned int c2 = 4294967295;
+    printf("%u\n", c2); //unsigned类型用"%u"
 
     //Basic-2:"%c":输出一个字符，也可指定域宽"%5c"
     char ch = 'a';

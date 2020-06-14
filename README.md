@@ -18,7 +18,6 @@ Just Reviewing C language
 [@MartPang](https://github.com/MartPang)
 [@saltfishQAQ](https://github.com/saltfishQAQ)
 
-
 ## License
 
 [MIT](https://github.com/MartPang/ReviewCLanguage/blob/master/LICENSE) © Richard Littauer

@@ -9,7 +9,7 @@ Just Reviewing C language
 - Day3：[Constant Or Variables](https://github.com/MartPang/ReviewCLanguage/blob/master/Day3/R_ConstantOrVariables.c)
 - Day4：[Loop of FOR](https://github.com/MartPang/ReviewCLanguage/blob/master/Day4/R_For.c)
 - Day5: 咕咕咕
-- Day6:[IF Judgment](https://github.com/MartPang/ReviewCLanguage/blob/master/Day6/R_IF.c)
+- Day6: [IF Judgment](https://github.com/MartPang/ReviewCLanguage/blob/master/Day6/R_IF.c)
 
 ## Maintainers
 

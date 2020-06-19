@@ -12,6 +12,7 @@ Just Reviewing C language
 - Day6: [IF Judgment](https://github.com/MartPang/ReviewCLanguage/blob/master/Day6/R_IF.c)
 - Day7: [Loop of WHILE](https://github.com/MartPang/ReviewCLanguage/blob/master/Day7/R_WHILE.c)
 - Day8: [Switch Judgment](https://github.com/MartPang/ReviewCLanguage/blob/master/Day8/R_SWITCH.c)
+- Day9: [Loop](Day9/Loop.c)
 
 ## Maintainers
 

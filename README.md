@@ -13,6 +13,7 @@ Just Reviewing C language
 - Day7: [Loop of WHILE](Day7/R_WHILE.c)
 - Day8: [Switch Judgment](Day8/R_SWITCH.c)
 - Day9: [Loop](Day9/R_Loop.c)
+- Day10: [Operator](Day10/R_Operator.c)
 
 ## Maintainers
 

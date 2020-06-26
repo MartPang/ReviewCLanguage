@@ -14,7 +14,7 @@ Just Reviewing C language
 - Day8: [Switch Judgment](Day8/R_SWITCH.c)
 - Day9: [Loop](Day9/R_Loop.c)
 - Day10: [Operator](Day10/R_Operator.c)
-
+- Day15: [Array](Day15/R_array.c)
 ## Maintainers
 
 [@MartPang](https://github.com/MartPang)

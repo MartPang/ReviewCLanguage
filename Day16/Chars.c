@@ -1,7 +1,7 @@
 /*Character array——字符串*/
 
 #include <stdio.h>
-#include <string.h>
+#include <string.h> //字符串函数库
 
 int main(void)
 {

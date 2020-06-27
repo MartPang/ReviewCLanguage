@@ -3,7 +3,6 @@
 Just Reviewing C language
 
 ## Here are Contents
-
 - Day1: [HelloWorld](Day1/HelloWorld.c)
 - Day2: [Fuction of printf()](Day2/R_printf.c)
 - Day3: [Constant Or Variables](Day3/R_ConstantOrVariables.c)
@@ -15,6 +14,8 @@ Just Reviewing C language
 - Day9: [Loop](Day9/R_Loop.c)
 - Day10: [Operator](Day10/R_Operator.c)
 - Day15: [Array](Day15/R_array.c)
+- Day16: [Character array](Day16/Chars.c)
+
 ## Maintainers
 
 [@MartPang](https://github.com/MartPang)

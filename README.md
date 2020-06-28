@@ -3,6 +3,7 @@
 Just Reviewing C language
 
 ## Here are Contents
+
 - Day1: [HelloWorld](Day1/HelloWorld.c)
 - Day2: [Fuction of printf()](Day2/R_printf.c)
 - Day3: [Constant Or Variables](Day3/R_ConstantOrVariables.c)
@@ -15,6 +16,7 @@ Just Reviewing C language
 - Day10: [Operator](Day10/R_Operator.c)
 - Day15: [Array](Day15/R_array.c)
 - Day16: [Character array](Day16/Chars.c)
+- Day17: [Function](Day17/R_Function.c)
 
 ## Maintainers
 
@@ -27,4 +29,4 @@ Just Reviewing C language
 
 ## License
 
-[MIT]( LICENSE) Â© Richard Littauer
+[MIT](LICENSE) © Richard Littauer
